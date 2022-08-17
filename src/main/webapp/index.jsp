@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  ProjectK Applications</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">  ProjectK Applications Freestyle declerative project </h1>
 </body>
 </html>
